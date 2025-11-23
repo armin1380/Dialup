@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Call Now</title>
+</head>
+<body>
+  <h2>Click to Call</h2>
+  <a href="tel:+1234567890">📞 Call this number</a>
+</body>
+</html>
